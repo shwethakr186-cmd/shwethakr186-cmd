@@ -1,4 +1,4 @@
-# 💫 About Me:
+I am Passionate about Learning New Things# 💫 About Me:
 I am Student.<br>Web development projects using Python and PHP.<br>Open-source projects,Student-focused applicstions.<br>Backend development.<br>Advanced Python,Flask framework.<br>Python basics,Beginner projects.<br>I love combining technology with agriculture.
 
 
