@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am Student.<br>Web development projects using Python and PHP.<br>Open-source projects,Student-focused applicstions.<br>Backend development.<br>Advanced Python,Flask framework.<br>Python basics,Beginner projects.<br>I love combining technology with agriculture.
+A beginner with big dreams,learning step by step and growing everyday# 💫 About Me:er
+Motivated fresher currently pursuing my studies.<br>🔭Web development projects using Python and PHP.<br> 👯‍♀️Open-source projects,Student-focused applicstions.<br>💛Backend development.<br>🌱Advanced Python,Flask framework.<br>🌪️Python basics,Beginner projects.<br>⚡I love combining technology with agriculture.
 
 
 ## 🌐 Socials:
